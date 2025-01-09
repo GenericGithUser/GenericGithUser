@@ -1,15 +1,11 @@
 <div id="user-content-toc"> 
   <ul style="list-style: none;" align="center"> 
-  <summary>
     <h1 align="center">Hello I Am Gian / GenericGithUser 👋 </h1>
-  </summary>  
   </ul>  
 </div>
 <div id="user-content-toc">
 <ul style="list-style: none;" align="center">   
-<summary>
-<h2 align="center">I am an aspiring programmer that uploads mostly web stuff here </h2>
-</summary>
+<h2 align="center">I am an aspiring programmer that uploads mostly web stuff here</h2>
 </ul>
 </div>
 
