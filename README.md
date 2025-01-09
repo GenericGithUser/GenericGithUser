@@ -1,12 +1,12 @@
 <div class="toc"> 
-  <ul style="list-style:none;" align="center"> 
+  <ul style="list-style: none;" align="center"> 
   <summary>
     <h1>Hello I Am Gian / GenericGithUser 👋 </h1>
   </summary>  
   </ul>  
 </div>
 <div class="toc">
-<ul style="list-style:none;" align="center">   
+<ul style="list-style: none;" align="center">   
 <summary>
 <h2>I am an aspiring programmer that uploads mostly web stuff here </h2>
 </summary>
@@ -14,7 +14,7 @@
 </div>
 
 <div class="toc">
-<ul style="list-style:none;" align="center"> 
+<ul style="list-style: none;" align="center"> 
 <h2>SOCIALS</h2>
 </ul>
 </div>  
