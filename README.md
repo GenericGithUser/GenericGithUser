@@ -26,3 +26,4 @@
 <a href="https://www.linkedin.com/in/gian-abril-466914323" target="_blank" rel="noopener noreferrer" class="special"><img src="https://genericportfolio.vercel.app/assets/linkedin.png" alt="missing" class="logo" width="50px"></a>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GenericGithUser&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
