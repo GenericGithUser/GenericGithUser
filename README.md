@@ -22,7 +22,7 @@
 <div align="center">
 <a href="https://www.facebook.com/khoramshahr.13/" target="_blank" rel="noopener noreferrer"><img src="https://genericportfolio.vercel.app/assets/images/logos/facebook.svg" alt="missing" class="logo" width="50px"></a>
 <a href="https://x.com/GenTwitUserr" target="_blank" rel="noopener noreferrer"><img src="https://genericportfolio.vercel.app/assets/images/logos/twitter.svg" alt="missing" class="logo"width="50px"></a>
-<a href="mailto:personakkount@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://genericportfolio.vercel.app/assets/images/logos/mail.svg" alt="missing" class="logo"width="50px"></a>
+<a href="mailto:abril.gian.as@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://genericportfolio.vercel.app/assets/images/logos/mail.svg" alt="missing" class="logo"width="50px"></a>
 <a href="https://www.linkedin.com/in/gian-abril-466914323" target="_blank" rel="noopener noreferrer" class="special"><img src="https://genericportfolio.vercel.app/assets/images/logos/linkedin.svg" alt="missing" class="logo" width="50px"></a>
 </div>
 
